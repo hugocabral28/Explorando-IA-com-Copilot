@@ -11,24 +11,24 @@ Após abrir o [copilot.microsoft.com](https://copilot.microsoft.com/), podemos v
 **Prompts usados:**
 
 1° Prompt:
-![Prompt 1](https://github.com/hugocabral28/explorando-IA-com-Copilot/inputs/img_001.png?raw=true)
+![Prompt 1](https://github.com/hugocabral28/explorando-IA-com-Copilot/blob/main/inputs/img_001.png?raw=true)
 
 2° Prompt:
-![Prompt 2](https://github.com/hugocabral28/explorando-IA-com-Copilot/inputs/img_002.png?raw=true)
+![Prompt 2](https://github.com/hugocabral28/explorando-IA-com-Copilot/blob/main/inputs/img_002.png?raw=true)
 
 3° Prompt:
-![Prompt 3](https://github.com/hugocabral28/explorando-IA-com-Copilot/inputs/img_003.png?raw=true)
+![Prompt 3](https://github.com/hugocabral28/explorando-IA-com-Copilot/blob/main/inputs/img_003.png?raw=true)
 
 **Respostas dos prompts:**
 
 1° Resposta:
-![Resposta 1](https://github.com/hugocabral28/explorando-IA-com-Copilot/outputs/img_001.png?raw=true)
+![Resposta 1](https://github.com/hugocabral28/explorando-IA-com-Copilot/blob/main/outputs/img_001.png?raw=true)
 
 2° Resposta:
-![Resposta 2](https://github.com/hugocabral28/explorando-IA-com-Copilot/outputs/img_002.png?raw=true)
+![Resposta 2](https://github.com/hugocabral28/explorando-IA-com-Copilot/blob/main/outputs/img_002.png?raw=true)
 
 3° Resposta:
-![Resposta 3](https://github.com/hugocabral28/explorando-IA-com-Copilot/outputs/img_003.png?raw=true)
+![Resposta 3](https://github.com/hugocabral28/explorando-IA-com-Copilot/blob/main/outputs/img_003.png?raw=true)
 
 ## **Links Importantes**
 
